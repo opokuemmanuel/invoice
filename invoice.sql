@@ -49,12 +49,6 @@ CREATE TABLE `invoice`  (
 -- ----------------------------
 -- Records of invoice
 -- ----------------------------
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '32', 'futureopoku@gmail.com', '1667963322_Opoku Emmanuel Kwame CV.pdf', '2022-11-09 03:08:42', '2022-11-09 03:09:14', 42, 'sent');
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '4343', 'futureopoku@gmail.com', '1667963642_AES Print.pdf', '2022-11-09 03:14:02', '2022-11-09 03:14:47', 43, 'sent');
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '323', 'futureopoku@gmail.com', '1667963750_AES Print.pdf', '2022-11-09 03:15:50', '2022-11-09 03:16:08', 44, 'sent');
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '32', 'futureopoku@gmail.com', '1667963898_AES Print.pdf', '2022-11-09 03:18:18', '2022-11-09 03:18:44', 45, 'sent');
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '4354543', 'futureopoku@gmail.com', '1667964219_AES Print.pdf', '2022-11-09 03:23:39', '2022-11-09 03:23:51', 46, 'sent');
-INSERT INTO `invoice` VALUES ('ddssdsd', '323233432', 'futureopoku@gmail.com', '1667964300_Opoku Emmanuel Kwame CV.pdf', '2022-11-09 03:25:00', '2022-11-09 03:25:15', 47, 'sent');
-INSERT INTO `invoice` VALUES ('EMMANUEL KWAME OPOKU', '343524332', 'futureopoku@gmail.com', '1667964552_AES Print.pdf', '2022-11-09 03:29:12', '2022-11-09 03:29:23', 48, 'sent');
+
 
 SET FOREIGN_KEY_CHECKS = 1;
