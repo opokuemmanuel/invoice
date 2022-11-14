@@ -101,10 +101,8 @@
         Swal.fire({
             title:"",
             text:"Loading...",
-            buttons: false,
             closeOnClickOutside: false,
             timer: 30000,
-            //icon: "success"
         });
         e.preventDefault();
         var formData = new FormData(this);

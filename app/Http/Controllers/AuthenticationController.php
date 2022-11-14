@@ -38,7 +38,7 @@ class AuthenticationController extends Controller
               $result = $user->save();
 
               if ($result){
-                  return redirect('/dashboard');
+                  return redirect('/show/login');
               }
 
           }
